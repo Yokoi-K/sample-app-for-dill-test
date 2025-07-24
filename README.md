@@ -103,7 +103,7 @@ It does not work.
 
 This is because incremental build uses `_compilerOptions` instead of `compilerOptions`.
 
-https://github.com/dart-lang/sdk/blob/3.0.6/pkg/frontend_server/lib/frontend_server.dart#L578
+https://github.com/dart-lang/sdk/blob/3.8.1/pkg/frontend_server/lib/frontend_server.dart#L622
 
 #### Try: modify frontend_server and verify
 
